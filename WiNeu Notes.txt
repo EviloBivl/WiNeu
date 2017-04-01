@@ -1,0 +1,1 @@
+Configure Swiftgen to generate files when xcode builds

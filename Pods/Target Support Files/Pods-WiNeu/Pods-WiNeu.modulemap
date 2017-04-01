@@ -1,0 +1,6 @@
+framework module Pods_WiNeu {
+  umbrella header "Pods-WiNeu-umbrella.h"
+
+  export *
+  module * { export * }
+}

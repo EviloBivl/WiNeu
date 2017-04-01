@@ -1,0 +1,4 @@
+primaryColor : #757F86
+accentColor : #77828B
+secondaryColor : #D5D4D7
+

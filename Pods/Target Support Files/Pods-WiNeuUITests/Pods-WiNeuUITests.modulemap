@@ -1,0 +1,6 @@
+framework module Pods_WiNeuUITests {
+  umbrella header "Pods-WiNeuUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

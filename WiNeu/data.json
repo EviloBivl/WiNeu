@@ -1,0 +1,29 @@
+{
+    "rows" : ["Tierreich", "Mineralreich" , "Pflanzenreich","Infinite"],
+    
+    "Pflanzenreich" : ["Klabusterbeere", "Wiese", "Pflaumen", "Hollunder"],
+    "Mineralreich"  : ["OmvTankstelle", "Kristalle", "Mehr Daten", "Calcium", "Phospor"],
+    "Tierreich"     : ["Saubär", "Dinosaurier" , "Opabär", "Kugelfisch"],
+    "Saubär"        : ["Dieser kleine Bär lebt tief im Wald und isst am liebsten altes braunes Laub."],
+    "Infinite"      : ["Infinite","Infinite"],
+    
+    
+    "Klabusterbeere" : ["Die Klabusterbeere ist eine ganz beseondere Beere :) "],
+    "Wiese" : ["Eine Grüne Wiese vorallem Gesund wenn man sie nicht gerade in Mengen ist"],
+    "Hollunder" : ["Es empfiehlt sich hierbei ein paar Beeren des HollunderStrauches zu essen. Mehr Details auf der nächsten Seite"],
+    "Pflaumen" : ["Sind in der Regel nicht so gescheit. Aber tortzdem lecker"],
+    
+    "OmvTankstelle" : ["Bitte einmal voll tanken"],
+    "Kristalle" : ["Es gibt sie in allen Farben."],
+    "Mehr Daten" : ["Dürfen wir whitespace im Key haben ?"],
+    "Calcium" : ["Alle mögen Calcium"],
+    
+    "Dinosaurier" : ["Haben alle gern"],
+    "Opabär" : ["Ist alt und grau und "],
+    "Kugelfisch" : ["Voll unbendenklich"],
+    
+    
+    
+    
+    
+}
